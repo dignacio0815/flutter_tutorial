@@ -1,9 +1,12 @@
-# flutter_tutorial
+# Flutter Tutorial Project!
 
-A new Flutter project.
+This beginner Flutter project goes over:
+- how to create a Flutter app
+- what are widgets and how to use them
+- interacting with different widgets
+- navigating bewteen multiple widgets
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
